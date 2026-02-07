@@ -32,6 +32,8 @@ You can use **PyMiniProGUI** in one of the following ways:
 
 - Build it yourself using `build.sh` (requires **Docker**)
 
+- Or just use as it, via launching app.py and downloading source code :)
+
 > **Warning**  
 > For now, the build system is not complete and in Beta stage of development so it works **only on Apple Silicon Macs**, due to the specifics of compiling Linux builds.
 
@@ -61,6 +63,7 @@ If you’d like to collaborate or report a bug — **open an issue**!
 ### Untested
 - Linux ARM build *(Native)*  
 - Linux x86-64 build  
+
 
 
 
