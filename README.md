@@ -26,7 +26,7 @@ PyMiniProGUI keeps a **similar interface and feature set**, but is:
 
 You can use **PyMiniProGUI** in one of the following ways:
 
-- Download a pre-built release:
+- Download a pre-built release (coming soon):
   - **AppImage** (Linux)
   - **.app** (macOS)
 
@@ -61,5 +61,6 @@ If you’d like to collaborate or report a bug — **open an issue**!
 ### Untested
 - Linux ARM build *(Native)*  
 - Linux x86-64 build  
+
 
 
