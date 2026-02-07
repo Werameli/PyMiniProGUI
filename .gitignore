@@ -1,0 +1,8 @@
+backend/__pycache__/device_list_loader.cpython-314.pyc
+backend/__pycache__/pty_runner.cpython-314.pyc
+ui/__pycache__/about_dialog.cpython-314.pyc
+ui/__pycache__/device_search_dialog.cpython-314.pyc
+ui/__pycache__/hex_view.cpython-314.pyc
+ui/__pycache__/main_window.cpython-314.pyc
+ui/__pycache__/strings.cpython-314.pyc
+backend/__pycache__/minipro_backend.cpython-314.pyc
