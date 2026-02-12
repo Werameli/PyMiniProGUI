@@ -57,11 +57,9 @@ If you’d like to collaborate or report a bug — **open an issue**!
 
 ### Tested
 - macOS ARM build  
-- Linux ARM build *(AppImage)*  
+- Linux ARM build
+- Linux x86-64 build
 
-### Untested
-- Linux ARM build *(Native)*  
-- Linux x86-64 build  
 
 
 
