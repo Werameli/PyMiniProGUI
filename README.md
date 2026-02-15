@@ -43,8 +43,6 @@ Even though the wrapper is labeled **v1.0.0**, that doesn’t mean it’s fully 
 
 I’m happy to review any issues related to the app. I’m also actively looking for:
 
-- **x86-based Linux** users (for testing)
-- **ARM-based Linux** users (for testing)
 - **x86-based macOS** users (for releasing an x86 build for macOS)
 - Owners of these programmers:
   - **T56**
@@ -59,6 +57,7 @@ If you’d like to collaborate or report a bug — **open an issue**!
 - macOS ARM build  
 - Linux ARM build
 - Linux x86-64 build
+
 
 
 
